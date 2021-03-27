@@ -13,7 +13,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" height="50" style="vertical-align:top; margin:4px">  
 <img src="https://mofidds.com/wp-content/uploads/2020/11/android-studio-icon.png" alt="as" height="50" style="vertical-align:top; margin:4px">  
 <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-256.png" alt="firebase" height="50" style="vertical-align:top; margin:4px">  
-<img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-256.png" alt="git" height="50" style="vertical-align:top; margin:4px">  
+<img src="https://pandium.com/wp-content/uploads/2020/02/github-logo.png" alt="git" height="50" style="vertical-align:top; margin:4px">  
 </p>
 
 
