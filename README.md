@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**minej2004/minej2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔎 Find me on:
+<p align="center">
+ <a href="https://github.com/minej2004" target="_blank" rel="noopener noreferrer"> <img src="https://www.flaticon.com/svg/vstatic/svg/38/38401.svg?token=exp=1616865556~hmac=f541f87e6dbb6604d0a366f40c81fa3a" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/jamil-agaev-44b087204/" target="_blank" rel="noopener noreferrer"> <img src="https://www.flaticon.com/svg/vstatic/svg/124/124011.svg?token=exp=1616865458~hmac=53eca74e0ebf11e258fa438268e03530" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Languages and Tools:
+<p align="center"> 
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" height="50" style="vertical-align:top; margin:4px">  
+<img src="https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_android_studio-256.png" alt="as" height="50" style="vertical-align:top; margin:4px">  
+<img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-256.png" alt="firebase" height="50" style="vertical-align:top; margin:4px">  
+<img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-256.png" alt="git" height="50" style="vertical-align:top; margin:4px">  
+</p>
+
+
+
+
+## 💯 Stats:
+<p align="center">
+<img height="160" style="vertical-align:top; margin:4px" src="https://github-readme-stats.vercel.app/api?username=minej2004&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />          
+<img height="160" style="vertical-align:top; margin:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minej2004&langs_count=20&layout=compact&theme=radical" />
+</p>
