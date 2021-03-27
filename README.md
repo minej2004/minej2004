@@ -22,5 +22,5 @@
 ## 💯 Stats:
 <p align="center">
 <img height="160" style="vertical-align:top; margin:4px" src="https://github-readme-stats.vercel.app/api?username=minej2004&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />          
-<img height="160" style="vertical-align:top; margin:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minej2004&langs_count=20&layout=compact&theme=radical" />
+<img height="160" style="vertical-align:top; margin:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minej2004&langs_count=20&layout=compact&theme=highcontrast" />
 </p>
